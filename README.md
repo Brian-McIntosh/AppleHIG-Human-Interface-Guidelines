@@ -1,5 +1,5 @@
-# AppleHIG-Human-Interface-Guidelines
-
+# Human-Interface-Guidelines
+Reference: https://uxplanet.org/36-insights-from-apple-human-interface-guidelines-4a5ee3a71299
 ## iOS Guidelines
 1. Avoid asking for setup information upfront.
 2. Make learning fun and discoverable.
