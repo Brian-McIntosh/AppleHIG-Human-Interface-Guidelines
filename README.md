@@ -1,5 +1,5 @@
 # Human-Interface-Guidelines
-Reference: https://uxplanet.org/36-insights-from-apple-human-interface-guidelines-4a5ee3a71299
+Reference Article: https://uxplanet.org/36-insights-from-apple-human-interface-guidelines-4a5ee3a71299
 
 * Platforms: https://developer.apple.com/design/human-interface-guidelines/platforms/overview
 * Foundations: https://developer.apple.com/design/human-interface-guidelines/foundations/overview
