@@ -1,5 +1,13 @@
 # Human-Interface-Guidelines
 Reference: https://uxplanet.org/36-insights-from-apple-human-interface-guidelines-4a5ee3a71299
+
+* Platforms: https://developer.apple.com/design/human-interface-guidelines/platforms/overview
+* Foundations: https://developer.apple.com/design/human-interface-guidelines/foundations/overview
+* Patterns: https://developer.apple.com/design/human-interface-guidelines/patterns/overview
+* Components: https://developer.apple.com/design/human-interface-guidelines/components/all-components
+* Inputs: https://developer.apple.com/design/human-interface-guidelines/inputs/overview
+* Technologies: https://developer.apple.com/design/human-interface-guidelines/technologies/all-technologies
+
 ## iOS Guidelines
 1. Avoid asking for setup information upfront.
 2. Make learning fun and discoverable.
